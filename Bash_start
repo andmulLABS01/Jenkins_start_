@@ -33,7 +33,7 @@ sudo apt install jenkins
 
 #sleep to finish install
 
-#run command to check status of jenkins How to check if it is running? looking for [Active: active (running)]. What to do if its not?
+#run command to check the status of Jenkins How do I check if it is running? looking for [Active: active (running)]. What should I do if it's not?
 systemctl status jenkins
 
 #exit out of systemctl
